@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "tutorials/recursiveLines"
+        },
+        {
+            "path": "tutorials/sandbox/slider"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "slider"
+    }
+}
